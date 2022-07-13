@@ -1,0 +1,8 @@
+name: "SBase"
+version: "3.0.2"
+authors:
+  - "Sprisa"
+main: "me.sprisa.base.plugin.base"
+description: "Plugin base by Sprisa and other contributors"
+loadbefore:
+  - plugin
